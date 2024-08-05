@@ -1,4 +1,3 @@
-use std::{hash::RandomState, os::windows};
 
 #[derive(Debug)]
 struct Rectangle {
